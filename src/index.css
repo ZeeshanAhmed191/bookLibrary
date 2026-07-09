@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+
+body {
+  font-family: 'Inter';
+}
+.urdu {
+  font-family: 'Noto Nastaliq Urdu', serif;
+  direction: rtl;
+}
+@theme{
+  --color-primary: #0B5D3B;
+  --color-secondary: #D4A84F;
+  --color-background: #F8F5EE;
+  --color-textColor: #100c08;
+}
