@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc>https://booklibrary-cda.pages.dev/</loc>
+    <loc>https://booklibrary-cda.pages.dev</loc>
   </url>
 
   <url>
     <loc>https://booklibrary-cda.pages.dev/books</loc>
   </url>
+
+  
+  <url>
+    <loc>https://booklibrary-cda.pages.dev/books/patjhar-ki-awaz</loc>
+  </url>
+  <url>
+    <loc>https://booklibrary-cda.pages.dev/books/1984</loc>
+  </url>
+  <url>
+    <loc>https://booklibrary-cda.pages.dev/books/war-and-peace</loc>
+  </url>
+  <url>
+    <loc>https://booklibrary-cda.pages.dev/books/udaas-naslain</loc>
+  </url>
+  <url>
+    <loc>https://booklibrary-cda.pages.dev/books/raja-gidh</loc>
+  </url>
+  <url>
+    <loc>https://booklibrary-cda.pages.dev/books/patras-ka-mazameen</loc>
+  </url>
+  <url>
+    <loc>https://booklibrary-cda.pages.dev/books/pir-e-kamil</loc>
+  </url>
+  <url>
+    <loc>https://booklibrary-cda.pages.dev/books/manto-ka-afsanay</loc>
+  </url>
+  <url>
+    <loc>https://booklibrary-cda.pages.dev/books/khuda-ky-basti</loc>
+  </url>
+  <url>
+    <loc>https://booklibrary-cda.pages.dev/books/crime-and-punishment</loc>
+  </url>
+  <url>
+    <loc>https://booklibrary-cda.pages.dev/books/aag-ka-darya</loc>
+  </url>
+
 </urlset>
